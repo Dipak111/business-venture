@@ -3,6 +3,4 @@
 3. remote : Line2222
 4 .Imp by Local
 5. This is Final
-6. This is not final by Remote
-7. Hello i am remote
-8. I am again remote
+6. testing the final Sol - V1
