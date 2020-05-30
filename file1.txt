@@ -1,4 +1,4 @@
 Line1
-local : Line1
+local : Line1  <-- 3 lines are Okay
 remote : Line2222
 Imp by Local
